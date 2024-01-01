@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.ponnaganti.online # submit your host
+REDIS_HOST: redis.ponnaganti.online
+MYSQL_HOST: mysql.ponnaganti.online
+RABBITMQ_HOST: rabbitmq.ponnaganti.online
+CATALOGUE_HOST: catalogue.ponnaganti.online
+USER_HOST: user.ponnaganti.online
+CART_HOST: cart.ponnaganti.online
+SHIPPING_HOST: shipping.ponnaganti.online
+PAYMENT_HOST: payment.ponnaganti.online
+DISPATCH_HOST: dispatch.ponnaganti.online
